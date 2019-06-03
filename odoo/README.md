@@ -35,3 +35,4 @@ Then follow <a href="https://www.odoo.com/documentation/master/tutorials.html">t
 
 This is the first change
 This is the second change
+This is Bug1 change
